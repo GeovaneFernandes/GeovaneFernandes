@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello there!! I'm Geovane Fernandes Barbosa de Lima! 👋
 
-<!--
-**GeovaneFernandes/GeovaneFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer**, passionate about **JavaScript, React, Express, APIs, PostgreSQL, and .NET**. With a background in **Mechatronics Engineering**, I have extensive experience in **software development and web technologies**.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Backend | Database | Frontend | DevOps |
+|---------|----------|----------|--------|
+| JavaScript (Node.js, Express) | PostgreSQL/MySQL | React | Docker |
+| NET (C#) | SQL Server | Vue.js | Docker |
+| PHP (Laravel) | PostgreSQL/MySQL | React | Linux |
+
+## 🌍 Languages & Skills
+
+I am fluent in **Portuguese** and **English**, with strong communication skills. I enjoy working with **version control (Git, GitHub)**, **Agile methodologies (Scrum, Kanban)**, and project management tools like **Trello and Jira**.
+
+
+## 🚀 About Me
+
+- 💡 Experienced in **Full Stack Web Development**.
+- 🔧 Passionate about **backend optimization and database performance**.
+- 🌐 Enthusiastic about **new technologies, problem-solving, and continuous learning**.
+- 🤝 Open to collaboration on **innovative projects** and new opportunities.
+
+## 📫 How to Reach Me?
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/geovane-fernandes-barbosa-de-lima)
+- 📧 geovanefbdl@gmail.com
+- 🌎 [Portfolio](#) (coming soon!)
+
+Let's connect and build impactful solutions together! 🚀
+
